@@ -46,6 +46,7 @@ for k, t in TX.items():
 <link rel="alternate" hreflang="en" href="{base}/timeline/"><link rel="alternate" hreflang="ru" href="{base}/ru/timeline/"><link rel="alternate" hreflang="x-default" href="{base}/timeline/">
 <meta property="og:type" content="article"><meta property="og:title" content="{E(t["title"])}"><meta property="og:description" content="{E(t["desc"])}"><meta property="og:url" content="{base}{t["path"]}">
 <meta property="article:author" content="{base}/"><meta property="article:modified_time" content="2026-10-29">
+<meta name="google-site-verification" content="98IcG4qwy2zZgY4Y7MFRk3PTTY0_IDnZYRfcDazXHqk">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 <meta name="author" content="Yaroslav Andrieiev">
 <meta name="referrer" content="strict-origin-when-cross-origin">

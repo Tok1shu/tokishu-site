@@ -74,6 +74,7 @@ for k, t in T.items():
 <link rel="alternate" hreflang="en" href="{base}/"><link rel="alternate" hreflang="ru" href="{base}/ru/"><link rel="alternate" hreflang="x-default" href="{base}/">
 <meta property="og:type" content="profile"><meta property="og:title" content="{E(t["title"])}"><meta property="og:description" content="{E(t["desc"])}"><meta property="og:url" content="{base}{t["path"]}">
 <meta property="profile:first_name" content="Yaroslav"><meta property="profile:last_name" content="Andrieiev"><meta property="profile:username" content="tokishu">
+<meta name="google-site-verification" content="98IcG4qwy2zZgY4Y7MFRk3PTTY0_IDnZYRfcDazXHqk">
 <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
 <meta name="author" content="Yaroslav Andrieiev">
 <meta name="referrer" content="strict-origin-when-cross-origin">
