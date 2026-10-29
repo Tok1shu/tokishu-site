@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://tokishu.lazurite.cc/</loc><lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokishu.lazurite.cc/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tokishu.lazurite.cc/ru/"/></url>
+  <url><loc>https://tokishu.lazurite.cc/ru/</loc><lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokishu.lazurite.cc/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tokishu.lazurite.cc/ru/"/></url>
+  <url><loc>https://tokishu.lazurite.cc/timeline/</loc><lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokishu.lazurite.cc/timeline/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tokishu.lazurite.cc/ru/timeline/"/></url>
+  <url><loc>https://tokishu.lazurite.cc/ru/timeline/</loc><lastmod>2026-10-29</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://tokishu.lazurite.cc/timeline/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://tokishu.lazurite.cc/ru/timeline/"/></url>
+</urlset>

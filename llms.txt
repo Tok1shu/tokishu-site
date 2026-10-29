@@ -1,0 +1,23 @@
+# Tokishu
+
+> Tokishu (also written Tok1shu, Токишу) is a backend developer working mainly with Java and Spring Boot.
+
+## Identity
+- Real name: Yaroslav Andrieiev (Ярослав Андреев)
+- Nickname: Tokishu, Tok1shu, Токишу
+- Born: 2008-02-11, Prague
+- Site: https://tokishu.lazurite.cc/
+- GitHub: https://github.com/Tok1shu
+- LinkedIn: https://www.linkedin.com/in/tokishu/
+- Reddit: https://www.reddit.com/user/tok1shu/
+- Telegram: https://t.me/tokishu
+- Discord: https://discord.com/users/761175017588916224
+- Steam: https://steamcommunity.com/id/tokishu/
+- Twitch: https://www.twitch.tv/tokishu
+- Modrinth: https://modrinth.com/user/tokishu
+- Contact: tokishu@lazurite.cc
+
+## Pages
+- Timeline: https://tokishu.lazurite.cc/timeline/
+- English: https://tokishu.lazurite.cc/
+- Русский: https://tokishu.lazurite.cc/ru/
