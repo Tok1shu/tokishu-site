@@ -64,7 +64,6 @@ for k, t in TX.items():
 <header class="top"><div class="wrap bar2"><a class="brand" href="{home}"><span class="tile" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M16 18h32v9H36v22h-8V27H16z" fill="currentColor"/></svg></span><span>Tokishu</span></a>
 <nav>{nav}</nav><a class="lang" href="{other[0]}" hreflang="{other[1].lower()}">{other[1]}</a></div></header>
 <main class="wrap narrow tlpage"><h1 class="h1s">{t["h"]}</h1><p class="sub">{t["sub"]}</p><ol class="tl">{items}</ol><p class="tlnote">{t["note"]}</p></main>
-<footer><div class="wrap">Tokishu · {t["foot"]}</div></footer>
 </body></html>'''
     d = "timeline" if k == "en" else "ru/timeline"
     os.makedirs(d, exist_ok=True)

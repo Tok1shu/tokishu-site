@@ -107,7 +107,6 @@ for k, t in T.items():
 <a class="link" href="mailto:tokishu@lazurite.cc"><span class="ic">{ICON_MAIL}</span><span><b>Email</b>tokishu@lazurite.cc</span></a>
 </div></section>
 </main>
-<footer><div class="wrap">Tokishu · {t["foot"]}</div></footer>
 <script src="/app.js" defer></script>
 </body></html>'''
     open(("ru/" if k == "ru" else "") + "index.html", "w").write(page)
